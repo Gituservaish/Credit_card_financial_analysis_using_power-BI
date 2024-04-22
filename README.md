@@ -28,7 +28,7 @@ To support analysis and visualization, several DAX (Data Analysis Expressions) m
 
 ## Power BI Reports
 Power BI reports are created to visualize the insights derived from the data analysis. The reports include interactive visualizations such as:
-- KPIs (Key Performance Indicators) such as Revenue, Income, Interest.
+- KPIs (Key Performance Indicators) such as Revenue, Income, Interest etc.
 - Bar charts to analyze Revenue by Customer job, card type, Education level etc.
 
 ## Visuals
